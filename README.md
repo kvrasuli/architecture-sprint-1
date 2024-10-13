@@ -12,3 +12,5 @@
 а все общие компоненты перенести в host
 
 # Задание 2
+
+https://drive.google.com/file/d/1ONFhH5QNW8h309vnrtGf2j-oCVX5FpUp/view?usp=sharing
