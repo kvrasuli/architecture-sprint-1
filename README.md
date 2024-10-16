@@ -13,4 +13,4 @@
 
 # Задание 2
 
-https://drive.google.com/file/d/1ONFhH5QNW8h309vnrtGf2j-oCVX5FpUp/view?usp=sharing
+https://drive.google.com/file/d/14TeXaLMsknRvkVa28mfdtobtUt_K0-Bg/view?usp=sharing
